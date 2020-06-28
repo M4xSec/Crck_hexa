@@ -11,12 +11,12 @@
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/khacker1024/Crck_hexa
-* cd crck_hexa/
+* cd Crck_hexa/
 * python3 crck_hexa.py
 
 # INSTALLATION [ KALI ]
 * git clone https://github.com/khacker1024/Crck_hexa
-* cd crck_hexa/
+* cd Crck_hexa/
 * python3 crck_hexa.py
 
 # Features:-
